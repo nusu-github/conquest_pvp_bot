@@ -3,18 +3,29 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=13.0.0"
+  },
   "dependencies": {
+    "minecraft-data": "^2.70.2",
     "minecrafthawkeye": "^1.0.8",
-    "mineflayer": "^2.37.1",
+    "mineflayer": "^2.39.0",
     "mineflayer-pathfinder": "^1.2.2",
     "mineflayer-pvp": "^1.0.2",
     "unique-names-generator": "^4.3.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-security-node": "^1.0.14"
+  }
 }
