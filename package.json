@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "minecrafthawkeye": "^1.0.8",
+    "minecrafthawkeye": "^1.2.7",
     "mineflayer": "^2.37.1",
     "mineflayer-pathfinder": "^1.2.2",
     "mineflayer-pvp": "^1.0.2",
