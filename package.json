@@ -6,7 +6,7 @@
   "dependencies": {
     "minecrafthawkeye": "^1.0.8",
     "mineflayer": "^2.37.1",
-    "mineflayer-pathfinder": "^1.2.2",
+    "mineflayer-pathfinder": "^1.8.0",
     "mineflayer-pvp": "^1.0.2",
     "unique-names-generator": "^4.3.1"
   },
