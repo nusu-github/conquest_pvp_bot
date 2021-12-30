@@ -8,7 +8,7 @@
     "mineflayer": "^2.37.1",
     "mineflayer-pathfinder": "^1.2.2",
     "mineflayer-pvp": "^1.0.2",
-    "unique-names-generator": "^4.3.1"
+    "unique-names-generator": "^4.6.0"
   },
   "devDependencies": {},
   "scripts": {
