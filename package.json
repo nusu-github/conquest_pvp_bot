@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "minecrafthawkeye": "^1.2.7",
-    "mineflayer": "^2.41.0",
+    "mineflayer": "^3.0.0",
     "mineflayer-pathfinder": "^1.9.1",
     "mineflayer-pvp": "^1.0.2",
     "minecraft-data": "^2.106.0",
